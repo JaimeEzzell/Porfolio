@@ -1,0 +1,12 @@
+* {
+  font-family: 'Georgia', 'Times', serif;
+}
+/* This is a comment in CSS! */
+a {
+  color: SeaGreen;
+  text-decoration: none;
+}
+
+img {
+  border-radius: 100%;
+} 
